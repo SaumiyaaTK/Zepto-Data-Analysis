@@ -93,8 +93,7 @@ CREATE TABLE zepto (
 SELECT outOfStock, COUNT(sku_id)
 FROM zepto
 GROUP BY outOfStock;
-
-```sql
+```
   
 ### 4. 🧹 Data Cleaning
 - Identified and removed rows where MRP or discounted selling price was zero
