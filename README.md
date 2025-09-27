@@ -6,6 +6,7 @@ This project is perfect for:
 - 📚 Anyone learning SQL hands-on
 - 💼 Preparing for interviews in retail, e-commerce, or product analytics
 
+---
 
 ## 📌 Project Overview
 
@@ -18,6 +19,8 @@ The goal is to simulate how actual data analysts in the e-commerce or retail ind
 ✅ Implement **Data Cleaning** to handle null values, remove invalid entries, and convert pricing from paise to rupees
 
 ✅ Write **business-driven SQL queries** to derive insights around **pricing, inventory, stock availability, revenue** and more
+
+---
 
 ## 📁 Dataset Overview
 The dataset was sourced from [Kaggle](https://www.kaggle.com/datasets/palvinder2006/zepto-inventory-dataset/data?select=zepto_v2.csv) and was originally scraped from Zepto’s official product listings. It mimics what you’d typically encounter in a real-world e-commerce inventory system.
@@ -44,6 +47,8 @@ Each row represents a unique SKU (Stock Keeping Unit) for a product. Duplicate p
 - **outOfStock:** Boolean flag indicating stock availability
 
 - **quantity:** Number of units per package (mixed with grams for loose produce)
+
+---
 
 ## 🔧 Project Workflow
 
@@ -112,3 +117,15 @@ CREATE TABLE zepto (
 - Grouped products based on weight into Low, Medium, and Bulk categories
 
 - Measured total inventory weight per product category
+
+---
+
+## 📂 Attachments 📎  
+- 📑 [PostgreSQL](PostgreSQL/) → PostgreSQL `.sql` file 📂  
+- 📊 [Zepto Dataset](Dataset/) → Dataset from Kaggle 🏅  
+
+---
+
+## 👤 Author ✍️  
+**Saumiyaa T K**  
+🔗 [LinkedIn](https://www.linkedin.com/in/saumiyaa-t-k) | 💻 [GitHub](https://github.com/SaumiyaaTK)  
