@@ -128,4 +128,5 @@ CREATE TABLE zepto (
 
 ## 👤 Author ✍️  
 **Saumiyaa T K**  
-🔗 [LinkedIn](https://www.linkedin.com/in/saumiyaa-t-k) | 💻 [GitHub](https://github.com/SaumiyaaTK)  
+🔗 [![GitHub](https://img.shields.io/badge/GitHub-SaumiyaaTK-black?logo=github)](https://github.com/SaumiyaaTK)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saumiyaa%20T%20K-blue?logo=linkedin)](https://www.linkedin.com/in/saumiyaa-t-k)  
