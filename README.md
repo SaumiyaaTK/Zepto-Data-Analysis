@@ -120,8 +120,8 @@ GROUP BY outOfStock;
 ---
 
 ## 🔗 Attachments    
--  (Zepto.sql) → PostgreSQL `.sql` file 📂  
--  [Zepto Dataset](Dataset/) → Dataset from Kaggle 📑
+- [Zepto.sql](./Zepto.sql) → PostgreSQL `.sql` file 📂  
+- [zepto_v2.csv](./zepto_v2.csv) → Dataset from Kaggle 📑
 
 ---
 
