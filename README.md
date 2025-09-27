@@ -84,18 +84,18 @@ CREATE TABLE zepto (
 - Faced encoding issues (UTF-8 error), which were fixed by saving the CSV file using CSV UTF-8 format.
 
 ### 3. 🔍 Data Exploration
-- Counted the total number of records in the dataset
+- Counted rows, checked sample data, and null values.
 
-- Viewed a sample of the dataset to understand structure and content
+- Listed unique product categories.
 
-- Checked for null values across all columns
+- Compared in-stock vs out-of-stock products.
+```sql
+SELECT outOfStock, COUNT(sku_id)
+FROM zepto
+GROUP BY outOfStock;
 
-- Identified distinct product categories available in the dataset
-
-- Compared in-stock vs out-of-stock product counts
-
-- Detected products present multiple times, representing different SKUs
-
+```sql
+  
 ### 4. 🧹 Data Cleaning
 - Identified and removed rows where MRP or discounted selling price was zero
 
