@@ -120,12 +120,9 @@ GROUP BY outOfStock;
 ---
 
 ## 🔗 Attachments    
-zepto-sql-analysis/
-├── README.md
-├── Zepto.sql          # all SQL queries (main file for GitHub detection)
-├── zepto_v2.csv       # dataset (raw data)
-└── notebooks/         # optional (if you want to add Jupyter with SQL+Python)
-    └── analysis.ipynb
+
+- [Zepto SQL](./Zepto.sql) → PostgreSQL `.sql` file 📂
+- [Zepto Dataset](./zepto_v2.csv) → Dataset from Kaggle 📑
 
 ---
 
