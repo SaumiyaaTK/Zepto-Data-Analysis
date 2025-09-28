@@ -134,5 +134,3 @@ GROUP BY outOfStock;
 ---
 
 ⭐ If you like this project, don’t forget to give it a star on GitHub!
-*.sql linguist-detectable=true
-
